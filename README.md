@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Taruh banner 3D keren di sini -->
-  <img src="URL_GAMBAR_3D_KAMU_DISINI" alt="Kevin's 3D Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+<img src="https://media.tenor.com/2sL7X4lVb54AAAAi/scuba-scuba-cat.gif" width="150">
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=KynesCyn&label=Profile%20Views&color=0e76fd&style=flat-square" alt="Views" />
